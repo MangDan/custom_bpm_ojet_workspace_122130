@@ -1,0 +1,8 @@
+{
+    "serverurl" : "http://soabpm-vm:7003/",
+    "resturi" : "bpm/services/rest/",
+    "adminuser" : "weblogic",
+    "adminpw" : "welcome1",
+    "ordsserverurl" : "http://soabpm-vm:7005/",
+    "ordsresturi" : "ords/toss_bpm_ordsaq/"
+}
